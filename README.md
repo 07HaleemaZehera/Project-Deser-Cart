@@ -22,7 +22,7 @@ We use Local Storage Only thats why we inly added a boots Section.
 
 
 # Deployed Link-
-silly-payne-145580.netlify.app/
+https://silly-payne-145580.netlify.app/
 
 
 
