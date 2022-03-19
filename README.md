@@ -4,7 +4,9 @@ This is an Arab e-commerce Website and we made this clone in just 5 Days. The fl
 
 # Project Oweners 
 1.Haleeema Zehera
+
 2.Akhilesh Javalagi
+
 3.Mallikarjun Haralli
 
 # Client-Side Tech Stack
@@ -20,8 +22,7 @@ We use Local Storage Only thats why we inly added a boots Section.
 
 
 # Deployed Link-
-jovial-bose-95ed42.netlify.app/
-
+silly-payne-145580.netlify.app/
 
 
 
