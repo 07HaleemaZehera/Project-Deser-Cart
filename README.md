@@ -26,7 +26,7 @@ silly-payne-145580.netlify.app/
 
 
 
-# Some Snaps from our Clone-![aa](https://github.com/07HaleemaZehera/Project-3-Clone-ShoppersStop-BackEnd/blob/main/backend.png)
+# Some Snaps from our Clone-![aa](https://github.com/07HaleemaZehera/Project-Deser-Cart/blob/main/desertCart.png)
 
 
 
